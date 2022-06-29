@@ -1,5 +1,7 @@
 # PyChain Ledger
 
+![alt=""](application-image.png)
+
 ## Instructions
 
 Open the [`pychain.py` file](Starter_Code/pychain.py) included in the Homework's `Starter_code` folder. You’ll use this file to complete the steps for this assignment. Notice that the `PyChain` ledger that you built throughout this unit already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
