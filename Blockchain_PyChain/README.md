@@ -1,6 +1,6 @@
 # PyChain Ledger
 
-![alt=""](images/application-image.png)
+![alt=""](Images/application-image.png)
 
 ## Instructions
 
