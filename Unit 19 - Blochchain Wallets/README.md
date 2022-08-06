@@ -46,7 +46,7 @@ The steps for this challenge are broken out into the following sections:
 In this section, you'll import several functions from the `crypto_wallet.py` script into the file `fintech_finder.py`, which contains code for Fintech Finder’s customer interface, in order to add wallet operations to the application. For this section, you will assume the perspective of a Fintech Finder customer (i.e., you’ll provide your Ethereum wallet and account information to the application).
 
 Complete the following steps:
-## Also note that in the end I also amended the code so that Lane had an account address that was from my current Ganache that was utilising my Ethereum account address.  Therefore you will see in the code and the images that there is both a reduction in my wallet and the last transaction shows an increase in the wallet that I assigned to Lane.  
+
 1. Review the code contained in the `crypto_wallet.py` script file. Note that the Ethereum transaction functions that you have built throughout this module&mdash;including `wallet`, `wallet.derive_acount`, `get_balance`, `fromWei`, `estimateGas`, `sendRawTransaction`, and others&mdash;have now been incorporated into Python functions that allow you to automate the process of accessing them.
 
 2. Add your mnemonic seed phrase (provided by Ganache) to the starter code’s `SAMPLE.env` file. When the information has been added, rename the file `.env`.
